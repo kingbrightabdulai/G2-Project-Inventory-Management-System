@@ -1,0 +1,29 @@
+# Build and compiled files
+build/
+dist/
+*.class
+*.jar
+*.exe
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Java specific
+*.log
+target/
+out/
+
+# Test files
+test-output/
+
+# Temporary files
+*.tmp
+*.bak
